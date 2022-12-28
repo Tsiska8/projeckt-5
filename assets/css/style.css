@@ -41,6 +41,9 @@ body {
     margin-bottom: 46px;
 }
 
+hr{
+    border:1px solid #E9E9E9;
+}
 .element1 {
     float: left;
     margin-right: 9px;
